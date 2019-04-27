@@ -1,2 +1,2 @@
 # weather-forcast
-7 day forcast using some cool JS.
+7 day forcast using some interesting JS.
